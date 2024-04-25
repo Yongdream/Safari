@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Galaxy\\Safari\\exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F08354D-0334-46B0-BDC9-59E4B12E77C0}|huawei0424\\huawei0424.vcxproj|E:\\Galaxy\\Safari\\exam\\huawei0424\\huawei0424.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F08354D-0334-46B0-BDC9-59E4B12E77C0}|huawei0424\\huawei0424.vcxproj|solutionrelative:huawei0424\\huawei0424.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAE315D-45A7-4AA5-9E17-B8E99B5440B2}|042301_alibaba_dme\\042301_alibaba_dme.vcxproj|E:\\Galaxy\\Safari\\exam\\042301_alibaba_dme\\01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAAE315D-45A7-4AA5-9E17-B8E99B5440B2}|042301_alibaba_dme\\042301_alibaba_dme.vcxproj|solutionrelative:042301_alibaba_dme\\01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "huawei0424.cpp",
+              "DocumentMoniker": "E:\\Galaxy\\Safari\\exam\\huawei0424\\huawei0424.cpp",
+              "RelativeDocumentMoniker": "huawei0424\\huawei0424.cpp",
+              "ToolTip": "E:\\Galaxy\\Safari\\exam\\huawei0424\\huawei0424.cpp",
+              "RelativeToolTip": "huawei0424\\huawei0424.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T05:23:38.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01.cpp",
+              "DocumentMoniker": "E:\\Galaxy\\Safari\\exam\\042301_alibaba_dme\\01.cpp",
+              "RelativeDocumentMoniker": "042301_alibaba_dme\\01.cpp",
+              "ToolTip": "E:\\Galaxy\\Safari\\exam\\042301_alibaba_dme\\01.cpp",
+              "RelativeToolTip": "042301_alibaba_dme\\01.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T05:22:54.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

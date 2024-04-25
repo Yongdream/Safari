@@ -1,0 +1,4 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(huawei0424.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  huawei0424.cpp
+E:\Galaxy\Safari\exam\huawei0424\huawei0424.cpp(53,33): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  huawei0424.vcxproj -> E:\Galaxy\Safari\exam\x64\Debug\huawei0424_2.exe
