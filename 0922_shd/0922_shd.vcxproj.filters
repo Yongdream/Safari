@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="FileName2.cpp">
+    <ClCompile Include="0922_shd.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
